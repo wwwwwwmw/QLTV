@@ -256,7 +256,7 @@ namespace LibraryManagement.Forms
             await SearchRecordsAsync();
         }
 
-        private async Task SearchRecordsAsync(string? exactBarcode = null)
+        private async Task SearchRecordsAsync(string? exactCode = null)
         {
             try
             {
@@ -267,11 +267,10 @@ namespace LibraryManagement.Forms
                 var records = await borrowDAO.SearchAsync(keyword, status);
                 records = records.Where(r => r.Status == BorrowRecord.STATUS_BORROWING || r.Status == BorrowRecord.STATUS_OVERDUE).ToList();
 
-                if (!string.IsNullOrWhiteSpace(exactBarcode))
+                if (!string.IsNullOrWhiteSpace(exactCode))
                 {
                     records = records
-                        .Where(r => string.Equals(r.BookBarcode, exactBarcode, StringComparison.OrdinalIgnoreCase)
-                                    || string.Equals(r.ISBN, exactBarcode, StringComparison.OrdinalIgnoreCase))
+                    .Where(r => IsExactCodeMatch(r, exactCode))
                         .ToList();
                 }
 
@@ -312,6 +311,28 @@ namespace LibraryManagement.Forms
             {
                 MessageBox.Show($"Lỗi tìm kiếm: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private static bool IsExactCodeMatch(BorrowRecord record, string exactCode)
+        {
+            string normalizedInput = NormalizeCode(exactCode);
+            if (string.IsNullOrEmpty(normalizedInput)) return false;
+
+            return NormalizeCode(record.BorrowCode) == normalizedInput
+                || NormalizeCode(record.MemberCode) == normalizedInput
+                || NormalizeCode(record.BookBarcode) == normalizedInput
+                || NormalizeCode(record.ISBN) == normalizedInput;
+        }
+
+        private static string NormalizeCode(string? value)
+        {
+            if (string.IsNullOrWhiteSpace(value)) return string.Empty;
+
+            return value
+                .Trim()
+                .Replace(" ", string.Empty)
+                .Replace("-", string.Empty)
+                .ToUpperInvariant();
         }
 
         private async void DgvBorrowRecords_SelectionChanged(object? sender, EventArgs e)
