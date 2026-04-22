@@ -603,4 +603,5 @@ D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryM
 D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
 D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
 D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormAuthorManagement.resources
-D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublisherManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json

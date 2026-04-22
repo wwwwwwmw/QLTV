@@ -21,6 +21,7 @@ namespace LibraryManagement.Forms
         {
             AddActionCard("Quản lý Sách", "Thêm, sửa, xóa và theo dõi kho sách", () => new FormBookManagement().Show());
             AddActionCard("Quản lý Tác giả", "Quản trị tên tác giả, tiểu sử và quốc gia", () => new FormAuthorManagement().Show());
+            AddActionCard("Quản lý NXB", "Quản trị nhà xuất bản và thông tin liên hệ", () => new FormPublisherManagement().Show());
             AddActionCard("Quản lý Độc giả", "Cập nhật hồ sơ, loại thẻ và trạng thái", () => new FormMemberManagement().Show());
             AddActionCard("Báo cáo thống kê", "Xem số liệu mượn trả và hiệu suất hoạt động", () => new FormReport().Show());
             AddActionCard("Quản lý hàng đợi", "Duyệt và thông báo đặt trước", () => new FormReservationQueue().Show());

@@ -193,6 +193,9 @@ namespace LibraryManagement.Forms
             AddMenuButton("Quản lý Tác giả", y, BtnAuthors_Click);
             y += btnHeight + spacing;
 
+            AddMenuButton("Quản lý NXB", y, BtnPublishers_Click);
+            y += btnHeight + spacing;
+
             AddMenuButton("Quản lý Độc giả", y, BtnMembers_Click);
             y += btnHeight + spacing;
 
@@ -294,6 +297,11 @@ namespace LibraryManagement.Forms
         private void BtnAuthors_Click(object? sender, EventArgs e)
         {
             OpenForm(new FormAuthorManagement());
+        }
+
+        private void BtnPublishers_Click(object? sender, EventArgs e)
+        {
+            OpenForm(new FormPublisherManagement());
         }
 
         private void BtnBorrow_Click(object? sender, EventArgs e)

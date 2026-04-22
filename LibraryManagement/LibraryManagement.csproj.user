@@ -38,6 +38,9 @@
     <Compile Update="Forms\FormPublic.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormPublisherManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FormRenewBook.cs">
       <SubType>Form</SubType>
     </Compile>
