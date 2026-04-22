@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Documents\\QLThuVienDotNet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|d:\\documents\\qlthuviendotnet\\librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\Documents\\QLThuVienDotNet\\librarymanagement\\forms\\formpublishermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formpublishermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|d:\\documents\\qlthuviendotnet\\librarymanagement\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|d:\\documents\\qlthuviendotnet\\librarymanagement\\forms\\formauthormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\Documents\\QLThuVienDotNet\\librarymanagement\\forms\\formauthormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formauthormanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|d:\\documents\\qlthuviendotnet\\librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\Documents\\QLThuVienDotNet\\librarymanagement\\forms\\formusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -110,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,32 +122,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormMain.Designer.cs",
-              "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.Designer.cs",
-              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormMain.Designer.cs",
-              "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.Designer.cs",
-              "RelativeToolTip": "LibraryManagement\\Forms\\FormMain.Designer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FormPublisherManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormPublisherManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormPublisherManagement.cs",
+              "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormPublisherManagement.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\FormPublisherManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T03:29:10.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T03:48:40.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FormAuthorManagement.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormAuthorManagement.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormAuthorManagement.cs",
               "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormAuthorManagement.cs [Design]",
               "RelativeToolTip": "LibraryManagement\\Forms\\FormAuthorManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T03:25:24.791Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-22T03:25:24.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "FormRenewBook.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormRenewBook.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormRenewBook.cs",
@@ -154,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FormReport.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormReport.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormReport.cs",
@@ -165,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FormReservationQueue.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormReservationQueue.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormReservationQueue.cs",
@@ -176,7 +177,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\App.config",
+              "RelativeDocumentMoniker": "LibraryManagement\\App.config",
+              "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\App.config",
+              "RelativeToolTip": "LibraryManagement\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-21T09:37:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormMain.Designer.cs",
+              "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.Designer.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\FormMain.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T03:29:10.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FormReturn.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormReturn.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormReturn.cs",
@@ -187,32 +213,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormMain.cs",
               "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMain.cs [Design]",
               "RelativeToolTip": "LibraryManagement\\Forms\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T06:03:01.403Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-10T06:03:01.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\App.config",
-              "RelativeDocumentMoniker": "LibraryManagement\\App.config",
-              "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\App.config",
-              "RelativeToolTip": "LibraryManagement\\App.config",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-04-21T09:37:02.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormSettings.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormSettings.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormSettings.cs",
@@ -223,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormUserManagement.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormUserManagement.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormUserManagement.cs",
@@ -234,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FormPublic.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormPublic.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormPublic.cs",
@@ -245,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FormPayFine.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormPayFine.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormPayFine.cs",
@@ -256,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormMemberManagement.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMemberManagement.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormMemberManagement.cs",
@@ -267,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FormManagerWorkspace.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormManagerWorkspace.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormManagerWorkspace.cs",
@@ -278,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FormMailCenter.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormMailCenter.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormMailCenter.cs",
@@ -289,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormLogin.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormLogin.cs",
@@ -300,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "FormConnectionConfig.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormConnectionConfig.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormConnectionConfig.cs",
@@ -311,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FormCategoryManagement.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormCategoryManagement.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormCategoryManagement.cs",
@@ -322,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FormBorrowReturnDetails.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBorrowReturnDetails.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBorrowReturnDetails.cs",
@@ -333,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "FormBorrowHistory.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBorrowHistory.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBorrowHistory.cs",
@@ -344,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FormBorrow.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBorrow.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBorrow.cs",
@@ -355,19 +367,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "FormBookManagement.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBookManagement.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBookManagement.cs",
               "ToolTip": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBookManagement.cs [Design]",
               "RelativeToolTip": "LibraryManagement\\Forms\\FormBookManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T02:17:34.422Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-20T02:17:34.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "FormBookDetailPublic.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBookDetailPublic.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBookDetailPublic.cs",
@@ -378,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "FormBookChatbot.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBookChatbot.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBookChatbot.cs",
@@ -389,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "FormBarcodeScanner.cs [Design]",
               "DocumentMoniker": "D:\\Documents\\QLThuVienDotNet\\LibraryManagement\\Forms\\FormBarcodeScanner.cs",
               "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBarcodeScanner.cs",

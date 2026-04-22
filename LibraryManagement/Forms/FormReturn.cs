@@ -26,6 +26,7 @@ namespace LibraryManagement.Forms
         private ReservationDAO reservationDAO = new ReservationDAO();
         private Panel? heroPanel;
         private Label? lblHeroSubtitle;
+        private bool suppressSearchTextChanged;
 
         public FormReturn()
         {
@@ -185,6 +186,7 @@ namespace LibraryManagement.Forms
 
         private async void TxtSearch_TextChanged(object? sender, EventArgs e)
         {
+            if (suppressSearchTextChanged) return;
             await SearchRecordsAsync();
         }
 
@@ -215,8 +217,11 @@ namespace LibraryManagement.Forms
             barcode = string.IsNullOrWhiteSpace(barcode) ? null : barcode.Trim();
             if (barcode == null) return;
 
+            suppressSearchTextChanged = true;
             txtSearch.Text = barcode;
-            await SearchRecordsAsync();
+            suppressSearchTextChanged = false;
+
+            await SearchRecordsAsync(barcode);
         }
 
         private async void CboStatus_SelectedIndexChanged(object? sender, EventArgs e)
@@ -251,7 +256,7 @@ namespace LibraryManagement.Forms
             await SearchRecordsAsync();
         }
 
-        private async Task SearchRecordsAsync()
+        private async Task SearchRecordsAsync(string? exactBarcode = null)
         {
             try
             {
@@ -261,6 +266,14 @@ namespace LibraryManagement.Forms
                 // Only show borrowing/overdue records (not returned)
                 var records = await borrowDAO.SearchAsync(keyword, status);
                 records = records.Where(r => r.Status == BorrowRecord.STATUS_BORROWING || r.Status == BorrowRecord.STATUS_OVERDUE).ToList();
+
+                if (!string.IsNullOrWhiteSpace(exactBarcode))
+                {
+                    records = records
+                        .Where(r => string.Equals(r.BookBarcode, exactBarcode, StringComparison.OrdinalIgnoreCase)
+                                    || string.Equals(r.ISBN, exactBarcode, StringComparison.OrdinalIgnoreCase))
+                        .ToList();
+                }
 
                 dgvBorrowRecords.Rows.Clear();
                 foreach (var record in records)

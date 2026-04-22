@@ -35,6 +35,7 @@ namespace LibraryManagement.Forms
         private Book? selectedBook;
         private RecommendationItem? selectedRecommendation;
         private int allowedBorrowDays = 14;
+        private bool suppressBookSearchTextChanged;
 
         public FormBorrow()
         {
@@ -193,19 +194,7 @@ namespace LibraryManagement.Forms
             try
             {
                 var books = await bookDAO.SearchAsync(keyword, availableOnly: false);
-                dgvBooks.Rows.Clear();
-
-                foreach (var book in books)
-                {
-                    dgvBooks.Rows.Add(
-                        book.BookID,
-                        book.ISBN,
-                        book.Title,
-                        book.AuthorName,
-                        book.AvailableCopies,
-                        book.Location
-                    );
-                }
+                PopulateBooksGrid(books);
             }
             catch (Exception ex)
             {
@@ -213,8 +202,51 @@ namespace LibraryManagement.Forms
             }
         }
 
+        private void PopulateBooksGrid(System.Collections.Generic.IEnumerable<Book> books)
+        {
+            dgvBooks.Rows.Clear();
+            foreach (var book in books)
+            {
+                dgvBooks.Rows.Add(
+                    book.BookID,
+                    book.ISBN,
+                    book.Title,
+                    book.AuthorName,
+                    book.AvailableCopies,
+                    book.Location
+                );
+            }
+        }
+
+        private async Task LoadBooksByExactCodeAsync(string code, Book? fallbackBook = null)
+        {
+            var books = await bookDAO.SearchAsync(code, availableOnly: false);
+            var exactBooks = books.Where(b =>
+                    string.Equals(b.Barcode, code, StringComparison.OrdinalIgnoreCase)
+                    || string.Equals(b.ISBN, code, StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            if (exactBooks.Count == 0)
+            {
+                var exactByBarcode = await bookDAO.GetByBarcodeAsync(code);
+                if (exactByBarcode != null)
+                {
+                    exactBooks.Add(exactByBarcode);
+                }
+            }
+
+            if (exactBooks.Count == 0 && fallbackBook != null)
+            {
+                exactBooks.Add(fallbackBook);
+            }
+
+            PopulateBooksGrid(exactBooks);
+        }
+
         private async void TxtBookSearch_TextChanged(object? sender, EventArgs e)
         {
+            if (suppressBookSearchTextChanged) return;
+
             try
             {
                 string? keyword = string.IsNullOrWhiteSpace(txtBookSearch.Text) ? null : txtBookSearch.Text.Trim();
@@ -262,8 +294,11 @@ namespace LibraryManagement.Forms
                 return;
             }
 
+            suppressBookSearchTextChanged = true;
             txtBookSearch.Text = barcode;
-            await LoadBooksAsync(barcode);
+            suppressBookSearchTextChanged = false;
+
+            await LoadBooksByExactCodeAsync(barcode, book);
             SelectBookRow(book.BookID);
         }
 
