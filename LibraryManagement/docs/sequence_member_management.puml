@@ -1,0 +1,40 @@
+@startuml
+title Sequence Diagram: Quản lý Độc giả
+actor "Thủ thư" as Librarian
+boundary "FormMember" as UI
+control "MemberDAO" as DAO
+database "Database" as DB
+
+== Tìm kiếm ==
+Librarian -> UI: Nhập từ khóa
+activate UI
+UI -> DAO: Search(Keyword)
+activate DAO
+DAO -> DB: Query Members
+activate DB
+DB --> DAO: List Members
+deactivate DB
+DAO --> UI: Danh sách độc giả
+deactivate DAO
+UI --> Librarian: Hiển thị kết quả
+deactivate UI
+
+== Thêm / Sửa / Xóa ==
+Librarian -> UI: Nhập thông tin / Chọn độc giả
+Librarian -> UI: Click Lưu / Xóa
+activate UI
+
+UI -> DAO: Insert / Update / Delete
+activate DAO
+DAO -> DB: Thực hiện lệnh SQL
+activate DB
+DB --> DAO: Result
+deactivate DB
+DAO --> UI: True/False
+deactivate DAO
+
+UI -> UI: Load lại danh sách
+UI --> Librarian: Thông báo kết quả
+deactivate UI
+
+@enduml

@@ -1,0 +1,606 @@
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\App.config
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+C:\Users\ASUS\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+d:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+d:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+d:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\A.monhoc\congngheNET\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormLogin.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublic.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMemberManagement.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookDetailPublic.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowHistory.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormConnectionConfig.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPayFine.resources
+D:\Documents\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormRenewBook.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookDetailPublic.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowHistory.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormConnectionConfig.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormLogin.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMemberManagement.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPayFine.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublic.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormRenewBook.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zxing.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\A.monhoc\congngheNET\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zxing.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBarcodeScanner.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookDetailPublic.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowHistory.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormConnectionConfig.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormLogin.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMemberManagement.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPayFine.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublic.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormRenewBook.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookChatbot.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\MailKit.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\MimeKit.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\RBush.dll
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\App.config
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.exe
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.dll.config
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.deps.json
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.runtimeconfig.json
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.dll
+d:\Documents\QLThuVien\QLThuVien\_buildcheck\LibraryManagement.pdb
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormCategoryManagement.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMailCenter.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormManagerWorkspace.resources
+D:\Documents\QLThuVien\QLThuVien\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReservationQueue.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\MailKit.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\MimeKit.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\RBush.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zxing.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBarcodeScanner.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookChatbot.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookDetailPublic.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowHistory.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormCategoryManagement.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormConnectionConfig.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormLogin.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMailCenter.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormManagerWorkspace.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMemberManagement.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPayFine.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublic.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormRenewBook.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReservationQueue.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\Code\connghenet\New folder\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\App.config
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll.config
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.deps.json
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.runtimeconfig.json
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Dapper.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\MailKit.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\MimeKit.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\OpenCvSharp.Extensions.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\RBush.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zxing.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.AssemblyReference.cache
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBarcodeScanner.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookChatbot.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookDetailPublic.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBookManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrow.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowHistory.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormBorrowReturnDetails.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormCategoryManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormConnectionConfig.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormLogin.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMailCenter.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMain.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormManagerWorkspace.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormMemberManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPayFine.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormPublic.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormRenewBook.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReport.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReservationQueue.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormReturn.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormSettings.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormUserManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.GenerateResource.cache
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfoInputs.cache
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.AssemblyInfo.cs
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryM.685EF3B5.Up2Date
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\refint\LibraryManagement.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.pdb
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.genruntimeconfig.cache
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\Documents\QLThuVienDotNet\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.Forms.FormAuthorManagement.resources
+D:\Documents\QLThuVienDotNet\LibraryManagement\bin\Debug\net8.0-windows\LibraryManagement.exe

@@ -1,0 +1,27 @@
+@startuml
+title Activity Diagram: Trả sách
+|Thủ thư|
+start
+:Nhập Mã sách hoặc Mã phiếu mượn;
+|Hệ thống|
+:Tìm kiếm thông tin phiếu mượn;
+:Hiển thị thông tin (Người mượn, Tình trạng);
+
+|Thủ thư|
+:Kiểm tra sách & Xác nhận trả;
+
+|Hệ thống|
+:Cập nhật ngày trả thực tế;
+:Kiểm tra quá hạn;
+
+if (Quá hạn?) then (Yes)
+    :Tính số ngày quá hạn;
+    :Tính tiền phạt;
+    :Thông báo "Trả sách (Có phạt)";
+else (No)
+    :Thông báo "Trả sách thành công";
+endif
+
+:Cập nhật số lượng sách trong kho (+1);
+stop
+@enduml

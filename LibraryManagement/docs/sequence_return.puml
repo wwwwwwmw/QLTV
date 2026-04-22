@@ -1,0 +1,34 @@
+@startuml
+title Sequence Diagram: Trả sách
+actor "Thủ thư" as Librarian
+boundary "FormReturn" as UI
+control "BorrowRecordDAO" as DAO
+database "Database" as DB
+
+Librarian -> UI: Nhập Mã sách / Mã phiếu mượn
+activate UI
+UI -> DAO: GetBorrowInfo(Code)
+activate DAO
+DAO -> DB: Query Borrow Record
+activate DB
+DB --> DAO: Borrow Info
+deactivate DB
+DAO --> UI: Thông tin phiếu mượn
+deactivate DAO
+UI --> Librarian: Hiển thị (Người mượn, Ngày mượn, Hạn trả...)
+
+Librarian -> UI: Click "Trả sách"
+
+UI -> DAO: ReturnBook(BorrowID)
+activate DAO
+DAO -> DB: Cập nhật ngày trả & Tính phạt (nếu có)
+activate DB
+DB --> DAO: Result
+deactivate DB
+DAO --> UI: Kết quả trả
+deactivate DAO
+
+UI --> Librarian: Thông báo hoàn tất
+deactivate UI
+
+@enduml

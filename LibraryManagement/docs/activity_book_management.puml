@@ -1,0 +1,29 @@
+@startuml
+title Activity Diagram: Quản lý Sách
+|Thủ thư|
+start
+:Mở giao diện Quản lý Sách;
+:Chọn chức năng (Thêm / Sửa / Xóa / Tìm kiếm);
+
+if (Chức năng là gì?) then (Tìm kiếm)
+    :Nhập từ khóa;
+    |Hệ thống|
+    :Truy vấn và hiển thị danh sách;
+    stop
+else (Cập nhật dữ liệu)
+    |Thủ thư|
+    :Nhập/Sửa thông tin sách;
+    :Xác nhận thao tác;
+    
+    |Hệ thống|
+    :Kiểm tra dữ liệu;
+    if (Hợp lệ?) then (Yes)
+        :Cập nhật vào CSDL;
+        :Thông báo thành công;
+    else (No)
+        :Báo lỗi;
+    endif
+endif
+
+stop
+@enduml

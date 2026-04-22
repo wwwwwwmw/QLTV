@@ -1,0 +1,27 @@
+@startuml
+title Activity Diagram: Báo cáo Thống kê
+|Thủ thư|
+start
+:Mở Form Báo cáo;
+|Hệ thống|
+:Hiển thị Dashboard tổng quan;
+
+|Thủ thư|
+:Chọn loại báo cáo và khoảng thời gian;
+:Click "Xem báo cáo";
+
+|Hệ thống|
+:Truy vấn dữ liệu;
+:Hiển thị kết quả chi tiết;
+
+|Thủ thư|
+if (Cần xuất file?) then (Yes)
+    :Click "Xuất Excel";
+    |Hệ thống|
+    :Lưu file Excel;
+    :Thông báo thành công;
+else (No)
+endif
+
+stop
+@enduml

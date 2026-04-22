@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.omg.org/spec/UML/20110701">
+  <uml:Model xmi:id="Model_LibraryManagement" name="LibraryManagement">
+    <packagedElement xmi:type="uml:Actor" xmi:id="A_Guest" name="Khách"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A_Member" name="Độc giả"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A_Librarian" name="Thủ thư"/>
+    <packagedElement xmi:type="uml:Actor" xmi:id="A_Admin" name="Quản trị"/>
+
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Browse" name="Xem danh mục sách"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Search" name="Tìm kiếm sách"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_ViewDetail" name="Xem chi tiết sách"/>
+
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Login" name="Đăng nhập"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Borrow" name="Mượn sách"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Return" name="Trả sách"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_ViewHistory" name="Xem lịch sử mượn"/>
+
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_BookCRUD" name="Quản lý sách"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_MemberCRUD" name="Quản lý độc giả"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_UserCRUD" name="Quản lý người dùng"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Settings" name="Cấu hình hệ thống"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="UC_Report" name="Xem báo cáo thống kê"/>
+
+    <packagedElement xmi:type="uml:Generalization" xmi:id="GEN_Admin_Librarian" general="A_Librarian" specific="A_Admin"/>
+
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Guest_Browse">
+      <ownedEnd xmi:id="AS_Guest_Browse_end1" type="A_Guest" association="AS_Guest_Browse"/>
+      <ownedEnd xmi:id="AS_Guest_Browse_end2" type="UC_Browse" association="AS_Guest_Browse"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Guest_Search">
+      <ownedEnd xmi:id="AS_Guest_Search_end1" type="A_Guest" association="AS_Guest_Search"/>
+      <ownedEnd xmi:id="AS_Guest_Search_end2" type="UC_Search" association="AS_Guest_Search"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Guest_ViewDetail">
+      <ownedEnd xmi:id="AS_Guest_ViewDetail_end1" type="A_Guest" association="AS_Guest_ViewDetail"/>
+      <ownedEnd xmi:id="AS_Guest_ViewDetail_end2" type="UC_ViewDetail" association="AS_Guest_ViewDetail"/>
+    </packagedElement>
+
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Member_Borrow">
+      <ownedEnd xmi:id="AS_Member_Borrow_end1" type="A_Member" association="AS_Member_Borrow"/>
+      <ownedEnd xmi:id="AS_Member_Borrow_end2" type="UC_Borrow" association="AS_Member_Borrow"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Member_Return">
+      <ownedEnd xmi:id="AS_Member_Return_end1" type="A_Member" association="AS_Member_Return"/>
+      <ownedEnd xmi:id="AS_Member_Return_end2" type="UC_Return" association="AS_Member_Return"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Member_ViewHistory">
+      <ownedEnd xmi:id="AS_Member_ViewHistory_end1" type="A_Member" association="AS_Member_ViewHistory"/>
+      <ownedEnd xmi:id="AS_Member_ViewHistory_end2" type="UC_ViewHistory" association="AS_Member_ViewHistory"/>
+    </packagedElement>
+
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Librarian_BookCRUD">
+      <ownedEnd xmi:id="AS_Librarian_BookCRUD_end1" type="A_Librarian" association="AS_Librarian_BookCRUD"/>
+      <ownedEnd xmi:id="AS_Librarian_BookCRUD_end2" type="UC_BookCRUD" association="AS_Librarian_BookCRUD"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Librarian_MemberCRUD">
+      <ownedEnd xmi:id="AS_Librarian_MemberCRUD_end1" type="A_Librarian" association="AS_Librarian_MemberCRUD"/>
+      <ownedEnd xmi:id="AS_Librarian_MemberCRUD_end2" type="UC_MemberCRUD" association="AS_Librarian_MemberCRUD"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Librarian_Borrow">
+      <ownedEnd xmi:id="AS_Librarian_Borrow_end1" type="A_Librarian" association="AS_Librarian_Borrow"/>
+      <ownedEnd xmi:id="AS_Librarian_Borrow_end2" type="UC_Borrow" association="AS_Librarian_Borrow"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Librarian_Return">
+      <ownedEnd xmi:id="AS_Librarian_Return_end1" type="A_Librarian" association="AS_Librarian_Return"/>
+      <ownedEnd xmi:id="AS_Librarian_Return_end2" type="UC_Return" association="AS_Librarian_Return"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Librarian_Report">
+      <ownedEnd xmi:id="AS_Librarian_Report_end1" type="A_Librarian" association="AS_Librarian_Report"/>
+      <ownedEnd xmi:id="AS_Librarian_Report_end2" type="UC_Report" association="AS_Librarian_Report"/>
+    </packagedElement>
+
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Admin_UserCRUD">
+      <ownedEnd xmi:id="AS_Admin_UserCRUD_end1" type="A_Admin" association="AS_Admin_UserCRUD"/>
+      <ownedEnd xmi:id="AS_Admin_UserCRUD_end2" type="UC_UserCRUD" association="AS_Admin_UserCRUD"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Admin_Settings">
+      <ownedEnd xmi:id="AS_Admin_Settings_end1" type="A_Admin" association="AS_Admin_Settings"/>
+      <ownedEnd xmi:id="AS_Admin_Settings_end2" type="UC_Settings" association="AS_Admin_Settings"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="AS_Admin_Report">
+      <ownedEnd xmi:id="AS_Admin_Report_end1" type="A_Admin" association="AS_Admin_Report"/>
+      <ownedEnd xmi:id="AS_Admin_Report_end2" type="UC_Report" association="AS_Admin_Report"/>
+    </packagedElement>
+
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_Borrow_Login" addition="UC_Login" includingCase="UC_Borrow"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_Return_Login" addition="UC_Login" includingCase="UC_Return"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_BookCRUD_Login" addition="UC_Login" includingCase="UC_BookCRUD"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_MemberCRUD_Login" addition="UC_Login" includingCase="UC_MemberCRUD"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_UserCRUD_Login" addition="UC_Login" includingCase="UC_UserCRUD"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_Settings_Login" addition="UC_Login" includingCase="UC_Settings"/>
+    <packagedElement xmi:type="uml:Include" xmi:id="INC_ViewHistory_Login" addition="UC_Login" includingCase="UC_ViewHistory"/>
+  </uml:Model>
+</xmi:XMI>

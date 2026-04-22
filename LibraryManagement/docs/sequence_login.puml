@@ -1,0 +1,29 @@
+@startuml
+title Sequence Diagram: Đăng nhập Hệ thống
+actor "Người dùng" as User
+boundary "FormLogin" as UI
+control "UserDAO" as DAO
+database "Database" as DB
+
+User -> UI: Nhập Username, Password
+User -> UI: Click "Đăng nhập"
+activate UI
+
+UI -> DAO: Login(Username, Password)
+activate DAO
+DAO -> DB: Kiểm tra thông tin User
+activate DB
+DB --> DAO: Trả về User info
+deactivate DB
+DAO --> UI: Kết quả đăng nhập
+deactivate DAO
+
+alt Đăng nhập thành công
+    UI -> UI: Lưu phiên làm việc (Session)
+    UI --> User: Chuyển đến màn hình chính
+else Thất bại
+    UI --> User: Thông báo lỗi
+end
+
+deactivate UI
+@enduml

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\FormAuthorManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBarcodeScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBookChatbot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBookDetailPublic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBorrowHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBorrowReturnDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCategoryManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConnectionConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMailCenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormManagerWorkspace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPayFine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPublic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRenewBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormReservationQueue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUserManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+@startuml
+title Activity Diagram: Quản lý Độc giả
+|Thủ thư|
+start
+:Mở giao diện Quản lý Độc giả;
+:Chọn tác vụ (Thêm / Sửa / Xóa / Tìm kiếm);
+
+if (Tác vụ?) then (Tìm kiếm)
+    :Nhập thông tin;
+    |Hệ thống|
+    :Hiển thị danh sách độc giả;
+    stop
+else (Cập nhật dữ liệu)
+    |Thủ thư|
+    :Nhập/Sửa thông tin độc giả;
+    :Xác nhận;
+    
+    |Hệ thống|
+    :Kiểm tra dữ liệu;
+    if (Hợp lệ?) then (Yes)
+        :Lưu vào CSDL;
+        :Thông báo thành công;
+    else (No)
+        :Báo lỗi;
+    endif
+endif
+
+stop
+@enduml

@@ -1,0 +1,106 @@
+@startuml
+left to right direction
+
+actor "Khách vãng lai" as Guest
+actor "Độc giả" as Member
+actor "Thủ thư" as Librarian
+actor "Quản trị viên" as Admin
+
+usecase "Xem danh mục sách" as UC_Browse
+usecase "Tìm kiếm sách" as UC_Search
+usecase "Xem chi tiết sách" as UC_ViewDetail
+
+usecase "Đăng nhập" as UC_Login
+usecase "Mượn sách" as UC_Borrow
+usecase "Trả sách" as UC_Return
+usecase "Thu tiền phạt" as UC_PayFine
+usecase "Xem lịch sử mượn" as UC_ViewHistory
+
+usecase "Quản lý sách" as UC_BookCRUD
+usecase "Quản lý độc giả" as UC_MemberCRUD
+usecase "Quản lý người dùng" as UC_UserCRUD
+usecase "Cấu hình hệ thống" as UC_Settings
+usecase "Xem báo cáo thống kê" as UC_Report
+
+' Quan hệ kế thừa Actor
+' Độc giả trên hệ thống phần mềm này có vai trò tra cứu tương tự Khách
+Member -|> Guest
+Admin -|> Librarian
+
+' Guest (và Member) chỉ tra cứu
+Guest --> UC_Browse
+Guest --> UC_Search
+Guest --> UC_ViewDetail
+
+' Librarian thực hiện các nghiệp vụ quản lý và mượn trả
+Librarian --> UC_Login
+Librarian --> UC_BookCRUD
+Librarian --> UC_MemberCRUD
+Librarian --> UC_Borrow
+Librarian --> UC_Return
+Librarian --> UC_PayFine
+Librarian --> UC_ViewHistory
+Librarian --> UC_Report
+
+' Admin quản trị hệ thống
+Admin --> UC_UserCRUD
+Admin --> UC_Settings
+
+' Quan hệ include (Đăng nhập bắt buộc cho các chức năng quản lý)
+UC_BookCRUD ..> UC_Login : <<include>>
+UC_MemberCRUD ..> UC_Login : <<include>>
+UC_Borrow ..> UC_Login : <<include>>
+UC_Return ..> UC_Login : <<include>>
+UC_PayFine ..> UC_Login : <<include>>
+UC_ViewHistory ..> UC_Login : <<include>>
+UC_Report ..> UC_Login : <<include>>
+UC_UserCRUD ..> UC_Login : <<include>>
+UC_Settings ..> UC_Login : <<include>>
+
+' Ghi chú mapping với Form thực tế trong Code
+note right of UC_Browse
+Form công khai
+Liên quan: FormPublic
+end note
+
+note right of UC_Borrow
+Lập phiếu mượn cho độc giả
+Liên quan: FormBorrow
+end note
+
+note right of UC_Return
+Nhận sách trả & tính phạt
+Liên quan: FormReturn
+end note
+
+note right of UC_PayFine
+Thu phí phạt quá hạn
+Liên quan: FormPayFine
+end note
+
+note right of UC_BookCRUD
+Thêm/sửa/xóa sách
+Liên quan: FormBookManagement
+end note
+
+note right of UC_MemberCRUD
+Quản lý thông tin độc giả
+Liên quan: FormMemberManagement
+end note
+
+note right of UC_UserCRUD
+Quản lý tài khoản nhân viên
+Liên quan: FormUserManagement
+end note
+
+note right of UC_Settings
+Cấu hình tham số, kết nối DB
+Liên quan: FormSettings, FormConnectionConfig
+end note
+
+note right of UC_Report
+Dashboard & Thống kê
+Liên quan: FormReport, FormMain
+end note
+
+@enduml

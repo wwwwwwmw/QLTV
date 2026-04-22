@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|d:\\a.monhoc\\congnghenet\\qlthuvien\\qlthuvien\\librarymanagement\\services\\databaseschemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\services\\databaseschemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\forms\\formusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\forms\\formusermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formusermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\librarymanagement\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1234567-1234-1234-1234-123456789ABC}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\App.config",
+              "RelativeDocumentMoniker": "LibraryManagement\\App.config",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\App.config",
+              "RelativeToolTip": "LibraryManagement\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-25T16:09:00.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Data\\DatabaseConnection.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "LibraryManagement\\Data\\DatabaseConnection.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwGMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:06:36.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:01:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseSchemaService.cs",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Services\\DatabaseSchemaService.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Services\\DatabaseSchemaService.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Services\\DatabaseSchemaService.cs",
+              "RelativeToolTip": "LibraryManagement\\Services\\DatabaseSchemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:56:35.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUserManagement.cs [Design]",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormUserManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormUserManagement.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormUserManagement.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\FormUserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUserManagement.Designer.cs",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormUserManagement.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormUserManagement.Designer.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormUserManagement.Designer.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\FormUserManagement.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormReturn.cs",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormReturn.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormReturn.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\LibraryManagement\\Forms\\FormReturn.cs*",
+              "RelativeToolTip": "..\\LibraryManagement\\Forms\\FormReturn.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:23.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormReturn.cs [Design]",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormReturn.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormReturn.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\LibraryManagement\\Forms\\FormReturn.cs [Design]*",
+              "RelativeToolTip": "..\\LibraryManagement\\Forms\\FormReturn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:20.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBookManagement.cs [Design]",
+              "DocumentMoniker": "D:\\A.monhoc\\congngheNET\\QLThuVien\\QLThuVien\\LibraryManagement\\Forms\\FormBookManagement.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\FormBookManagement.cs",
+              "ToolTip": "D:\\A.monhoc\\congngheNET\\QLThuVien\\LibraryManagement\\Forms\\FormBookManagement.cs [Design]",
+              "RelativeToolTip": "..\\LibraryManagement\\Forms\\FormBookManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:04.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

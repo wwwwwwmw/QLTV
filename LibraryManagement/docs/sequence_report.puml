@@ -1,0 +1,45 @@
+@startuml
+title Sequence Diagram: Báo cáo Thống kê
+actor "Thủ thư" as User
+boundary "FormReport" as UI
+control "ReportDAO" as DAO
+database "Database" as DB
+
+User -> UI: Mở Form Báo cáo
+activate UI
+UI -> DAO: GetDashboardStats()
+activate DAO
+DAO -> DB: Query Aggregation
+activate DB
+DB --> DAO: Stats Data
+deactivate DB
+DAO --> UI: Data
+deactivate DAO
+UI --> User: Hiển thị Dashboard
+deactivate UI
+
+== Tạo Báo cáo Chi tiết ==
+User -> UI: Chọn Loại báo cáo & Thời gian
+User -> UI: Click "Xem báo cáo"
+activate UI
+
+UI -> DAO: GetReportData(Type, DateRange)
+activate DAO
+DAO -> DB: Execute Query
+activate DB
+DB --> DAO: Result List
+deactivate DB
+DAO --> UI: Data
+deactivate DAO
+
+UI --> User: Hiển thị dữ liệu
+deactivate UI
+
+== Xuất Excel ==
+User -> UI: Click "Xuất Excel"
+activate UI
+UI -> UI: Export Data to Excel File
+UI --> User: Thông báo thành công
+deactivate UI
+
+@enduml

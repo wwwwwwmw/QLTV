@@ -1,0 +1,35 @@
+@startuml
+title Sequence Diagram: Mượn sách
+actor "Thủ thư" as Librarian
+boundary "FormBorrow" as UI
+control "BorrowRecordDAO" as DAO
+database "Database" as DB
+
+Librarian -> UI: Nhập Mã độc giả
+activate UI
+UI -> DAO: GetMemberInfo(MemberCode)
+activate DAO
+DAO -> DB: Query Member
+activate DB
+DB --> DAO: Member Info
+deactivate DB
+DAO --> UI: Thông tin độc giả
+deactivate DAO
+UI --> Librarian: Hiển thị thông tin (Tên, Hạn thẻ...)
+
+Librarian -> UI: Nhập Mã sách / Chọn sách
+Librarian -> UI: Click "Mượn sách"
+
+UI -> DAO: BorrowBook(MemberID, BookID)
+activate DAO
+DAO -> DB: Kiểm tra tồn kho & Tạo phiếu mượn
+activate DB
+DB --> DAO: Result (Success/Fail)
+deactivate DB
+DAO --> UI: Kết quả
+deactivate DAO
+
+UI --> Librarian: Thông báo & Cập nhật danh sách
+deactivate UI
+
+@enduml

@@ -1,0 +1,26 @@
+@startuml
+title Activity Diagram: Mượn sách
+|Thủ thư|
+start
+:Nhập Mã độc giả;
+|Hệ thống|
+:Hiển thị thông tin độc giả;
+
+|Thủ thư|
+:Chọn sách cần mượn;
+:Click "Xác nhận mượn";
+
+|Hệ thống|
+:Kiểm tra điều kiện mượn
+(Số lượng tồn, Hạn mức mượn);
+
+if (Đủ điều kiện?) then (Yes)
+    :Tạo phiếu mượn;
+    :Trừ số lượng sách trong kho;
+    :Thông báo thành công;
+else (No)
+    :Báo lỗi (Hết sách / Quá hạn mức);
+endif
+
+stop
+@enduml
